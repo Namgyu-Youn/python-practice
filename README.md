@@ -1,4 +1,4 @@
-This is practice for python.
+Practice for Python
 
 # ISBN Code
 - Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow : 1098125975 / 978-1098125974
